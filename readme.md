@@ -6,7 +6,6 @@
   <br>
   <br>
   <div>
-   Save weeks of work with ready-to-use Next.js SaaS boilerplates built for your tech stack.
     <a href="https://topBoilerplate.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=best-nextjs-saas-boilerplates">
       <div>
         <img src="/topboilerplatelogo.png" width="400" alt="topboilerplate">
