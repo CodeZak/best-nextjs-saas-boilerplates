@@ -1,4 +1,4 @@
-# Awesome Open Source SaaS Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
+# Awesome Free Next.js SaaS Boilerplates [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badges/)
 
 > A curated collection of free Open-Source Next.js SaaS boilerplates and starter templates to build your next SaaS project Faster.
 
