@@ -6,9 +6,9 @@
   <br>
   <br>
   <div>
-    <a href="https://boilerplatehub.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-opensource-boilerplates">
+    <a href="https://topBoilerplate.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=best-nextjs-saas-boilerplates">
       <div>
-        <img src="/topboilerplate.com" width="400" alt="BoilerplateHub">
+        <img src="/topboilerplatelogo" width="400" alt="topboilerplate">
       </div>
       <br>
     Save weeks of work with ready-to-use Next.js SaaS boilerplates built for your tech stack.
@@ -37,7 +37,7 @@
 
 ## Boilerplates
 
-### [Play nextjs](https://github.com/NextJSTemplates/play-nextjs){:target="_blank"}
+### [Play nextjs](https://github.com/NextJSTemplates/play-nextjs)
 
 - 🛢 PostgreSQL for Database 
 - 🔒 NextAuth 
