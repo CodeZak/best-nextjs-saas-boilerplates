@@ -37,61 +37,61 @@
 
 ## Boilerplates
 
-### [Play nextjs](https://github.com/NextJSTemplates/play-nextjs) 
+### [Play nextjs](https://github.com/NextJSTemplates/play-nextjs){:target="_blank"}
 
-🛢 PostgreSQL for Database 
-🔒 NextAuth 
-📝 MDX for Blogs
-💳 Stripe for Subscription Payments
+- 🛢 PostgreSQL for Database 
+- 🔒 NextAuth 
+- 📝 MDX for Blogs
+- 💳 Stripe for Subscription Payments
 
 ### [SaaS Boilerplate](https://github.com/ixartz/SaaS-Boilerplate)
 
-🔒 NextAuth 
-💎 Integrate with Tailwind CSS and Shadcn UI
-🌐 Multi-tenancy
-🛢 DrizzleORM
-💳 Subscription payment with Stripe
+- 🔒 NextAuth 
+- 💎 Integrate with Tailwind CSS and Shadcn UI
+- 🌐 Multi-tenancy
+- 🛢 DrizzleORM
+- 💳 Subscription payment with Stripe
 
 
 ### [Cascade](https://cascade.stackonfire.com/)  
 
-🛢 Prisma
-🎨 Shadcn/ui
-🔒 Next Auth
-💳 Lemon Squeezy
-📝 blog 
-📊 Analytics with Posthog 
-📊 Analytics with Plausible
+- 🛢 Prisma
+- 🎨 Shadcn/ui
+- 🔒 Next Auth
+- 💳 Lemon Squeezy
+- 📝 blog 
+- 📊 Analytics with Posthog 
+- 📊 Analytics with Plausible
 
 ### [Next.js Starter](https://github.com/vercel/nextjs-subscription-payments/)  
 
-🔒 Auth with Supabase
-🛢 Supabase DB
-💳 Stripe
+- 🔒 Auth with Supabase
+- 🛢 Supabase DB
+- 💳 Stripe
 
 ### [Next forge](https://www.next-forge.com/)  
 
-🛢 Prisma ORM
-🔒 Clerk
-📧 Resend
-🎨 Shadcn/ui
-📊 Google analytics
-💳 Stripe
-📝 Sentry
+- 🛢 Prisma ORM
+- 🔒 Clerk
+- 📧 Resend
+- 🎨 Shadcn/ui
+- 📊 Google analytics
+- 💳 Stripe
+- 📝 Sentry
 
 
 ### [Basejump](https://usebasejump.com/)
 
-✅ Powered by Supabase
-💳 Stripe
+- ✅ Powered by Supabase
+- 💳 Stripe
 
 
 ### [Nextacular](https://nextacular.co/)
 
-🛢 Prisma
-🔒 NextAuth
-🎨 TailwindCSS
-💳 Stripe
+- 🛢 Prisma
+- 🔒 NextAuth
+- 🎨 TailwindCSS
+- 💳 Stripe
 
 
 <!-- 
