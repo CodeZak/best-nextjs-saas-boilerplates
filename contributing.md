@@ -34,10 +34,8 @@ When submitting a pull request, please:
   ```markdown
   - [Project Name](link) - Brief description that explains what makes this boilerplate unique
   ### [Boilerplate name](link)  
-
-- ✅  Technology 1
-- ✅  Technology 2
-
+  ✅  Technology 1
+  ✅  Technology 2
   ```
 - Add new entries to the relevant category
 - Check your spelling and grammar
