@@ -17,12 +17,14 @@ By participating in this project, you agree to abide by our [Contributor Code of
 
 Please ensure your submission meets these criteria:
 
+- **add your boilerplate at end of the list**
 - **Open Source**: The boilerplate must have an open source license
 - **Active Maintenance**: Project should be actively maintained (updated within the last 6 months)
 - **Documentation**: Must have clear documentation and setup instructions
 - **Quality**: Should follow best practices and coding standards for its technology
 - **Uniqueness**: Avoid duplicating existing entries
 - **Format**: Follow the existing format in the README.md file
+
 
 ## Pull Request Format
 
@@ -31,6 +33,11 @@ When submitting a pull request, please:
 - Use the following format for adding entries:
   ```markdown
   - [Project Name](link) - Brief description that explains what makes this boilerplate unique
+  ### [Boilerplate name](link)  
+
+- ✅  Technology 1
+- ✅  Technology 2
+
   ```
 - Add new entries to the relevant category
 - Check your spelling and grammar
@@ -41,7 +48,7 @@ When submitting a pull request, please:
 
 To suggest a new category:
 
-1. Ensure it's relevant to boilerplates and starter templates
+1. Ensure it's relevant to nextjs boilerplates and starter templates
 2. Add it in alphabetical order in the table of contents
 3. Create the corresponding section with a suitable description
 
